@@ -18,6 +18,7 @@ Install my-project with npm
   npm install my-project
   cd my-project
   npm start
+  View your brand new app at http://localhost:3000
 ```
     
 ## Authors
