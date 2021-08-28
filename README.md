@@ -36,4 +36,5 @@ Install my-project with npm
 If you have any feedback, please reach us at:
 https://github.com/williamfernands/rest-countries-api-challenge-mova/issues
 
-  
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
